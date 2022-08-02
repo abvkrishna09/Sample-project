@@ -1,3 +1,1 @@
-Welcome to RR Technosoftd
-
-[
+Welcome to bala ready for learn AWS
